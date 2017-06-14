@@ -1,0 +1,60 @@
+<resources>
+    <!--common-->
+    <dimen name="common_dialog_width">280dp</dimen>
+    <dimen name="common_toolbar_title_margin_left">30dp</dimen>
+    <dimen name="storage_item_decoration">3dp</dimen>
+    <dimen name="common_horizontal_margin">16dp</dimen>
+    <dimen name="common_divider_left_margin">72dp</dimen>
+    <dimen name="common_statusbar_height">25dp</dimen>
+    <dimen name="common_divider_height">0.5dp</dimen>
+    <dimen name="common_item_height">60dp</dimen>
+    <dimen name="common_item_icon_size">40dp</dimen>
+    <dimen name="common_item_padding">16dp</dimen>
+    <dimen name="common_txt_size">14sp</dimen>
+    <dimen name="common_txt_big_size">16sp</dimen>
+    <dimen name="common_txt_large_size">18sp</dimen>
+    <dimen name="common_txt_large_big_size">20sp</dimen>
+    <dimen name="common_btn_height">44dp</dimen>
+    <dimen name="layout_dimens_32">32dp</dimen>
+    <dimen name="layout_dimens_6">6dp</dimen>
+    <dimen name="layout_dimens_7">7dp</dimen>
+    <dimen name="main_cpu_temp_padding_horizontal">5dp</dimen>
+    <dimen name="main_cpu_temp_padding_vertical">1.5dp</dimen>
+    <dimen name="common_notification_button_corner_radius">14dp</dimen>
+    <dimen name="main_boost_title_size">35sp</dimen>
+
+    <dimen name="card_corner_radius">0dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="rippleRadius">64dp</dimen>
+    <dimen name="rippleMargin">30dp</dimen>
+
+    <!--boost-->
+    <dimen name="boost_short_cut_rocket_size">50dp</dimen>
+    <dimen name="boost_short_cut_anim_size">76dp</dimen>
+
+    <dimen name="btn_ok_margin_bottom">5dp</dimen>
+    <dimen name="btn_ok_margin_top">5dp</dimen>
+    <dimen name="btn_ok_margin_left">8dp</dimen>
+    <dimen name="btn_ok_margin_right">8dp</dimen>
+
+    <dimen name="boost_progress_stroke_width">3dp</dimen>
+    <dimen name="popup_window_width">6dp</dimen>
+    <dimen name="slide_unlock_text_size">18sp</dimen>
+    <dimen name="setting_list_heigh_two">70dp</dimen>
+    <dimen name="fragment_setting_left">20dp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    <dimen name="setting_list_heigh_one">60dp</dimen>
+    <dimen name="md_dialog_frame_margin">24dp</dimen>
+    <dimen name="md_listitem_height">48dp</dimen>
+    <dimen name="md_listitem_control_margin">6dp</dimen>
+    <dimen name="md_content_textsize">16sp</dimen>
+    <dimen name="navigation_item_height">52dp</dimen>
+    <dimen name="solo_search_scene_box_height">36dp</dimen>
+    <dimen name="solo_search_box_big_padding">8dp</dimen>
+    <dimen name="solo_search_bar_margin">12dp</dimen>
+    <dimen name="solo_search_box_hint_text">14sp</dimen>
+    <dimen name="solo_search_scene_height">52dp</dimen>
+    <dimen name="hot_word_margin">8dp</dimen>
+</resources>

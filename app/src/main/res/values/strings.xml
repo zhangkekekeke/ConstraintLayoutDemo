@@ -1,0 +1,309 @@
+<resources>
+    <string name="app_name">Solo Cleaner</string>
+
+    <!--common module-->
+    <string name="common_delete_confirm_warning">Warning</string>
+    <string name="common_empty_tips_add">Tap‘+’to add ignore apps</string>
+    <string name="common_empty_tips">Found nothing...</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_enable">Enable</string>
+    <string name="common_dialog_update">Update</string>
+    <string name="common_accessibility_tips">Find and enable Solo Cleaner</string>
+    <string name="common_no_internet">Opps, no internet...</string>
+    <string name="common_install">Install</string>
+    <string name="common_check">Check</string>
+    <string name="common_bad">Bad</string>
+    <string name="common_good">Optimal</string>
+    <string name="common_lets_go">Let\'s GO</string>
+    <string name="common_used">% Used</string>
+
+    <!--main module-->
+    <string name="main_boost">Phone Boost</string>
+    <string name="main_clean">Junk Files</string>
+    <string name="main_apps">App Manager</string>
+    <string name="main_storage">Storage</string>
+    <string name="main_drawer_anti_virus">Anti-virus</string>
+    <string name="main_drawer_solo_family">Solo Family</string>
+    <string name="main_drawer_setting">Settings</string>
+    <string name="main_drawer_like_us">Like Us</string>
+    <string name="main_drawer_feedback">Feedback</string>
+    <string name="main_drawer_slogan">The best maid for your phone!</string>
+    <string name="main_ram">RAM</string>
+    <string name="main_splash_go">GO</string>
+    <string name="main_splash_privacy_agree">Agree to the&#160;</string>
+    <string name="main_exit_confirm">Tap to exit</string>
+
+    <string name="main_notify_manager_describe">Too many noising notice? To help you manage your notifications.</string>
+    <string name="main_storage_manager_describe">Manage your phone storage more personalized.</string>
+
+    <!--apps module-->
+    <string name="apps_apps_manager">App Manager</string>
+    <string name="apps_apps_size">Size</string>
+    <string name="apps_apps_frequency">Frequency</string>
+    <string name="apps_apps_date">Date</string>
+    <string name="apps_apps_battery">Battery</string>
+    <string name="apps_apps_uninstall">UNINSTALL</string>
+    <string name="apps_apps_count">%1$d Apps</string>
+    <string name="apps_apps_desc">Uninstall what you no longer need</string>
+
+    <!--storage module-->
+    <string name="storage_storage">Storage</string>
+    <string name="storage_category_pics">Pics</string>
+    <string name="storage_category_apps">Apps</string>
+    <string name="storage_category_videos">Videos</string>
+    <string name="storage_category_musics">Musics</string>
+    <string name="storage_category_others">Others</string>
+    <string name="storage_category_big_files">Big Files</string>
+    <string name="storage_category_delete">Delete</string>
+    <string name="storage_pics_count">%1$d Photos</string>
+    <string name="storage_pics_description">Edit useless photos</string>
+    <string name="storage_videos_count">%1$d Videos</string>
+    <string name="storage_videos_description">Clean videos you no more watch</string>
+    <string name="storage_musics_count">%1$d Musics</string>
+    <string name="storage_musics_description">Clean songs you no more listen to</string>
+    <string name="storage_big_files_count">%1$d Big Files</string>
+    <string name="storage_big_files_description">Discover large files</string>
+    <string name="storage_delete_confirm_file_size">%1$d file(s) to be deleted</string>
+    <string name="storage_delete_confirm_warning">Delete operation cannot be restored</string>
+    <string name="storage_calculating">Calculating...</string>
+    <string name="storage_delete_empty_warnning">Nothing selected</string>
+
+    <string name="settings_item_about">About</string>
+    <string name="settings_item_advanced">Smart Lock</string>
+    <string name="settings_item_battery_charge">Smart Lock</string>
+    <string name="settings_item_battery_charge_ad">Automatically check device status and provide tips during charging.It may display ads</string>
+    <string name="settings_item_common_title">"General "</string>
+    <string name="settings_item_language">Language</string>
+    <string name="settings_item_notification">Notification</string>
+    <string name="settings_item_notification_quick">Notification Toggle</string>
+    <string name="settings_item_notification_title">Notification</string>
+    <string name="settings_item_update">Update</string>
+    <string name="settings_item_update_toast">Current version is the latest</string>
+
+    <!--boost module-->
+    <string name="boost_title">Boost</string>
+    <string name="boost">Boost</string>
+    <string name="boost_apps_selected">%1$d App(s)Selected</string>
+    <string name="boost_accessibility_desc">Power Mode Boosting\nAvoid Auto—started Apps</string>
+    <string name="boost_running_apps">Running apps</string>
+    <string name="boost_add_ignore">Add to Ignore List</string>
+    <string name="boost_remove_ignore">Remove from Ignore List</string>
+    <string name="boost_memory_used">Memory Used</string>
+    <string name="boost_boosting">Boosting</string>
+    <string name="boost_boosted">Boosted</string>
+    <string name="boost_accessibility_open_desc">Open Accessibility tool Scroll to find \'Solo Cleaner\' and turn it on</string>
+    <string name="boost_ignores">Running apps ignore list</string>
+    <string name="boost_boosting_progress">Boosting[%1$d/%2$d]:%3$s</string>
+    <string name="boost_notify_title">Solo Boost</string>
+    <string name="boost_notify_content">Over %1$s memory used</string>
+    <string name="boost_used">Used</string>
+    <string name="boost_can_boost">Freeable</string>
+    <string name="boost_release_more">Release More!</string>
+
+    <!--clean module-->
+    <string name="clean_title">Clean</string>
+    <string name="clean_toolbar_title">Clean Junk</string>
+    <string name="clean_memory_junk">Memory Junk</string>
+    <string name="clean_cache_junk">Cache Junk</string>
+    <string name="clean_residual_files">Residual Files</string>
+    <string name="clean_system_cache">System Cache</string>
+    <string name="clean_obsolete_apks">Obsolete Apks</string>
+    <string name="clean_temp_junk">Temp Files</string>
+    <string name="clean_cleaned">Cleaned</string>
+    <string name="clean_suggested">Suggested</string>
+    <string name="clean_scanning">Scanning</string>
+    <string name="clean_format_size">Clean %1$s</string>
+    <string name="clean_cleaning">Cleaning</string>
+    <string name="clean_accessibility_open_desc">%1$s more junk files can be cleaned!</string>
+    <string name="clean_space_used">Space Used</string>
+    <string name="clean_freed">Freed</string>
+    <string name="clean_advice">Advice: Clean</string>
+    <string name="clean_format_junk">\'s junk</string>
+    <string name="clean_no_reminder">No Reminder</string>
+    <string name="clean_apk_installed_reminder">installed successfully, You can delete the installation package to save %1$s of space.</string>
+    <string name="clean_reached_optimal_status">Reached optimal status</string>
+    <string name="clean_selected_size">Selected: %1$s</string>
+    <string name="main_drawer_about">About</string>
+    <string name="main_drawer_policy">Privacy Policy</string>
+    <string name="storage_used_and_total">%1$s Used / %2$s Total</string>
+    <string name="storage_delete_success">%1$s was cleaned!</string>
+    <string name="clean_notify_content">Found %1$s junks</string>
+    <string name="clean_scanning_deep_junk">Scanning deep junk</string>
+
+    <!--feedback-->
+    <string name="feedback_no_email_installed_txt">No email application detected.</string>
+    <string name="storage_used">%1$s Used</string>
+    <string name="storage_total">%1$s Total</string>
+    <string name="settings_common_title">General</string>
+
+    <string name="main_drawer_title_thanks" translatable="false">Thanks for being with us for&#160;</string>
+    <string name="main_drawer_title_save" translatable="false">We\'ve helped save&#160;</string>
+    <string name="main_drawer_notification">Notification Cleaner</string>
+    <string name="notification_charge_battery_title">Enable Smart Lock</string>
+    <string name="notification_charge_battery_content">Automatically check device status and provide tips during charging</string>
+
+    <string name="storage_storage_distribution_split" translatable="false">&#160;/&#160;</string>
+    <string name="main_drawer_title_thanks_days" translatable="false">&#160;days</string>
+    <string name="feedback_app_version">Version V%1$s</string>
+
+    <!--Notify-->
+    <string name="notify_many">Too many annoying notice?</string>
+    <string name="notify_many_content">To help you manage your notifications</string>
+    <string name="notify_manage_now">Manage Now</string>
+    <string name="notify_manage_setting">Notification Manager</string>
+    <string name="notify_clean">Notification Manager</string>
+    <string name="notify_off">Notification Manager unactivated</string>
+    <string name="notify_manage_off">Use Notification Manager</string>
+    <string name="notify_permission">Permit Access for Solo Cleaner</string>
+    <string name="notify_messages_collapsed">messages collapsed</string>
+    <string name="notify_no_messages">No more notification</string>
+    <string name="notify_to_much_messages">Too many annoying notice?</string>
+    <string name="notify_suggest_open_manager">Suggest open Notification Manager</string>
+    <string name="notify_top_many_content">Hide “Unwanted Notifications” to have more leisure time</string>
+    <string name="notify_will_block">Notification will be intercepted</string>
+    <string name="notify_will_not_block">Notification won\'t be intercepted</string>
+
+    <string name="apps_usage_permission_describe">Permissions are required to turn on. After turning on permissions, app\'s state can be recorded.</string>
+    <string name="apps_usage_permission_btn">Go to Settings</string>
+    <string name="notify_clean_notifications">One-key clean up</string>
+    <string name="settings_notification_boost_memory_boot">Boot-time scan</string>
+    <string name="settings_notification_boost_memory_maxvalue">Exceed memory limit</string>
+    <string name="settings_notification_boost_memory_scan">Scan memory space</string>
+    <string name="settings_notification_clean">Clean up</string>
+    <string name="settings_notification_clean_junksize">Junk size</string>
+    <string name="settings_notification_clean_period">Cleanup reminder interval</string>
+    <string name="settings_notification_clean_space">Not enough space</string>
+    <string name="settings_notification_mode">Notification mode</string>
+    <string name="settings_notification_mode_manual">Manual mode</string>
+    <string name="settings_notification_mode_smart">Intelligent mode</string>
+
+    <!--cpu-->
+    <string name="cpu_heated">CPU is overheated</string>
+    <string name="cpu_notify_title">CPU temperature rises to %1$s ℃</string>
+    <string name="cpu_notify_content">Resulting in slow running</string>
+    <string name="cpu_app_list_title">Continue to cool up to clean up %1$d apps</string>
+    <string name="cpu_effect_time">60s to reach the optimal cooling effect</string>
+    <string name="cpu_down">Dropped</string>
+    <string name="cpu_overheated">A bit hot</string>
+    <string name="cpu_cool">CPU Cooler</string>
+    <string name="cpu_status_good">Good</string>
+    <string name="cpu_start_cool">Cool down</string>
+    <string name="cpu_scanning">Scanning the CPU</string>
+    <string name="cpu_cooling">Starting cool down</string>
+
+    <!--battery-->
+    <string name="battery_saver_title">Battery Saver</string>
+    <string name="battery_saver_scanning">Analyzing battery consumption</string>
+    <string name="battery_saver_top_desc">Increase battery life</string>
+    <string name="battery_saver_list_title">"Dormancy daemons to avoid battery consumption "</string>
+    <string name="battery_saver_hibernate">Save power</string>
+    <string name="battery_saver_hibernating_progress">Power saved [%1$d/%2$d]:%3$s</string>
+    <string name="battery_saver_hibernated">Extended</string>
+    <string name="battery_saver_locker_title">Enable the lock screen while charging</string>
+    <string name="battery_saver_locker_desc">Clean the consumption items while charging</string>
+    <string name="battery_saver_notify_title">Battery of cell phone is under %1$s</string>
+    <string name="battery_saver_notify_content">Saving power with one click</string>
+    <string name="battery_saver_notify_running_apps">%1$d apps are consuming electricity</string>
+
+    <string name="clean_notify_btn_text">Clean</string>
+    <string name="boost_notify_btn_text">Boost</string>
+
+    <!--solo family-->
+    <string name="family_item_locker_title" translatable="false">Solo Locker</string>
+    <string name="family_item_launcher_title" translatable="false">Solo Launcher</string>
+    <string name="family_item_security_title" translatable="false">Solo Security</string>
+    <string name="family_item_battery_title" translatable="false">Solo Battery</string>
+    <string name="family_item_top_developer_title" translatable="false">Top Developer</string>
+    <string name="family_item_new_product_title" translatable="false">New Product</string>
+    <string name="family_item_launcher_description">Solo Launcher is one of the Top 3 Launchers on Google Play!</string>
+    <string name="family_item_locker_description">The world\'s first DIY screen locker!</string>
+    <string name="family_item_security_description">The most intimate mobile phone security housekeeper.</string>
+    <string name="family_item_battery_description" translatable="false">Clean big files, duplicate photos and more to save 2.68GB.</string>
+
+    <!--结果页-->
+    <string name="end_page_hot_word_title">Recommend For You:</string>
+    <string name="end_page_charge_title">Enable Charge Master</string>
+    <string name="end_page_charge_content">prevent overcharging</string>
+    <string name="end_page_rate_btn">5-Star Rating</string>
+    <string name="end_page_rate_content">Please give a 5-STAR to encourage us</string>
+    <string name="end_page_rate_title">" Do you like Solo Cleaner?"</string>
+    <string name="end_page_solo_launcher_content">One of the Top 3 Launchers on Google Play! Over 100 million users worldwide!</string>
+    <string name="end_page_solo_launcher_title">Solo Launcher-Clean,Smooth,DIY</string>
+    <string name="end_page_solo_locker_content">The world\'s first DIY screen locker,make your cell locker different right now!</string>
+    <string name="end_page_solo_locker_title">Solo Locker-DIY Locker</string>
+    <string name="end_page_app_install_btn">Install</string>
+    <string name="applock_default_protect_at_least_one">Choose at least one</string>
+    <string name="applock_default_protect_btn">Protect(%1$d)</string>
+    <string name="applock_default_protect_sensitive_app">Apps lock to protect</string>
+    <string name="applock_default_protect_your_privacy">Protect your privacy</string>
+    <string name="applock_forget_password_title">Forgot passcode</string>
+    <string name="applock_memo_answer">Answer</string>
+    <string name="applock_memo_answer_txt">%1$s/20</string>
+    <string name="applock_memo_question_description">Please set a Security Question in case you forget your password</string>
+    <string name="applock_memo_question_hero">Who was your childhood hero? </string>
+    <string name="applock_memo_question_new">Please answer the Security Question and reset password after answer correctly.</string>
+    <string name="applock_memo_question_null">Can not be empty</string>
+    <string name="applock_memo_question_school">What was the name of your elementary school?</string>
+    <string name="applock_memo_question_set">SET！</string>
+    <string name="applock_memo_question_singer">What\'s your favorite singer?</string>
+    <string name="applock_memo_question_teacher">What\'s the last name of your first teacher? </string>
+    <string name="applock_memo_question_three_step_title">Step 3:</string>
+    <string name="applock_memo_question_title">Security Question</string>
+    <string name="applock_memo_question_wrong">The note you entered is incorrect!</string>
+    <string name="applock_notify_remind_message">Lock the sensitive apps against the snoopers!</string>
+    <string name="applock_notify_tip_title">Turn on switch for Solo Cleaner to get full protection</string>
+    <string name="applock_open_permission_description">Please find and enable Solo Cleaner for proper working of AppLock</string>
+    <string name="applock_open_permission_ok">OK</string>
+    <string name="applock_open_permission_tip">READ ME!!!</string>
+    <string name="applock_password_at_least_four_numbers">Enter 4 numbers</string>
+    <string name="applock_password_change_to_pattern">Change to pattern</string>
+    <string name="applock_password_change_to_pin_code">Change to PIN code</string>
+    <string name="applock_password_confirm_number_password">Confirm PIN</string>
+    <string name="applock_password_one_description">Draw pattern to unlock</string>
+    <string name="applock_password_one_tip">Connect at least four dots</string>
+    <string name="applock_password_one_title">Step1:</string>
+    <string name="applock_password_password_not_confirm">Password not confirm</string>
+    <string name="applock_password_reset">Reset Password</string>
+    <string name="applock_password_set_pin_code">Set your PIN code</string>
+    <string name="applock_password_two_description">Confirm pattern</string>
+    <string name="main_applock">App Lock</string>
+    <string name="applock_item_ok">OK</string>
+
+    <!--辅助功能-->
+    <string name="accessibility_description">Start Solo Cleaner here, you can:\n1, Boost your phone，improve performance.\n2, Clear system garbage.\n3, Stop battery draining apps.\n\nWe promise:\nSolo Cleaner will never collect any private content.
+Note: When you open Solo Cleaner, you will get a routine private risk reminder. Please feel free to use. Solo Cleaner will never collect any private content.</string>
+    <string name="applock_password_two_title">Step2:</string>
+    <string name="applock_password_wrong_pattern">Wrong Pattern</string>
+    <string name="applock_setting_password_mode">PASSWORD MODE</string>
+    <string name="applock_setting_password_number">Numbers</string>
+    <string name="applock_setting_password_other_title">PASSWORD</string>
+    <string name="applock_setting_password_pattern">Pattern</string>
+    <string name="applock_setting_password_reset">Reset Password</string>
+    <string name="applock_setting_toolbar_title">Lock Settings</string>
+    <string name="main_storage_permission_tips">Click to enter permissions to open storage space access</string>
+    <string name="applock_open_permission_cancle">Cancel</string>
+
+    <!--<string name="main_rate_love">Love Solo Cleaner?</string>-->
+    <!--<string name="main_rate_star">How about a 5-star rating, then?</string>-->
+    <!--<string name="main_rate_yes_sure">OK, sure</string>-->
+    <!--<string name="main_rate_success">We resolved all problems successfully.</string>-->
+    <!--<string name="main_rate_how">How Solo Cleaner for you?</string>-->
+    <!--<string name="main_rate_not_great">Not great</string>-->
+    <!--<string name="main_rate_yes_love">I love it!</string>-->
+    <!--<string name="common_goto_google_play">GET IT ON Google Play</string>-->
+    <!--<string name="about_like_us_on_facebook">Like us on Facebook</string>-->
+    <!--<string name="about_right_declare">Solo Cleaner Team All Rights Reserved</string>  -->
+
+    <string name="main_drawer_rate_title">We resolved all problems successfully.</string>
+    <string name="main_drawer_rate_content">Love Solo Cleaner?</string>
+    <string name="main_drawer_rate_title_star_five">Thanks!!</string>
+    <string name="main_drawer_rate_content_star_five">How about a 5-star rating, then?</string>
+    <string name="main_drawer_rate_cancel">Not great</string>
+    <string name="main_drawer_rate_submit">I love it!</string>
+    <string name="main_drawer_rate_cancel_star_five">No</string>
+    <string name="main_drawer_rate_submit_star_five">OK</string>
+
+    <string name="common_goto_google_play">GET IT ON Google Play</string>
+    <string name="about_like_us_on_facebook">Like us on Facebook</string>
+    <string name="about_right_declare">Solo Cleaner Team All Rights Reserved</string>
+</resources>

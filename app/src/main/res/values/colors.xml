@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d93ff</color>
+    <color name="colorPrimaryDark">#2f89ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--common-->
+    <color name="common_white_bg_pressed">#33000000</color>
+    <color name="common_toolbar_bg">#5ac6ff</color>
+    <color name="common_list_item_normal">#f5f7fa</color>
+    <color name="common_list_item_pressed">#d3d6db</color>
+    <color name="common_delete_button_bg">#32deb8</color>
+    <color name="common_update_dialog_primary">#339aff</color>
+    <color name="common_update_dialog_pressed_primary">#1c85ed</color>
+    <color name="common_divider">#12000000</color>
+    <color name="common_eighty_seven_black">#de000000</color>
+    <color name="common_fifty_white">#7dffffff</color>
+    <color name="common_fifty_six_black">#91000000</color>
+    <color name="common_thirty_black">#4d000000</color>
+    <color name="common_fifty_four_black">#8a000000</color>
+    <color name="common_fifty_black">#80000000</color>
+    <color name="common_eighty_seven_white">#B3ffffff</color>
+    <color name="common_text_orange">#ff8a00</color>
+    <color name="common_danger_color">#ff4343</color>
+    <color name="common_primary_color">#4097fa</color>
+    <color name="common_button_blue_color">#35b2ff</color>
+    <color name="common_button_blue_pressed_color">#1499ec</color>
+    <color name="common_button_gray_pressed_color">#f0f0f0</color>
+    <color name="common_text_gray_color">#c9c9c9</color>
+    <color name="common_border_gray_color">#cacaca</color>
+    <color name="common_rating_bar_gray_color">#e2e2e2</color>
+    <color name="common_rating_bar_star_yellow_color">#ff9a00</color>
+    <color name="common_ad_img_bg">#e5e5e5</color>
+    <color name="common_button_ok_normal_color">#35d666</color>
+    <color name="common_button_ok_press_color">#2aab52</color>
+    <color name="common_button_ok_color">#40000000</color>
+    <color name="common_seventy_white">#b3ffffff</color>
+    <!--storage-->
+    <color name="storage_apps">#98e147</color>
+    <color name="storage_musics">#fea7be</color>
+    <color name="storage_other">#a7d6fe</color>
+    <color name="storage_pics">#2fc2ff</color>
+    <color name="storage_videos">#ffe419</color>
+    <color name="storage_default_place_holder">#33000000</color>
+    <color name="storage_free">#f2f3f5</color>
+
+    <color name="clean_low_bg">#36a8fc</color>
+    <color name="clean_middle_bg">#fd712c</color>
+    <color name="clean_high_bg">#ff5266</color>
+
+    <color name="main_storage_ripple_color">#ffffff</color>
+    <color name="main_toolbar_title_color">#35b2ff</color>
+    <color name="main_drawer_title_text_color">#FFDF00</color>
+    <color name="main_function_color">#35b2ff</color>
+    <color name="main_launcher_color">#9141d9</color>
+    <color name="main_security_color">#6968f7</color>
+    <color name="main_locker_color">#ff9b35</color>
+    <color name="main_battery_color">#51cf18</color>
+
+    <!--boost-->
+    <color name="boost_rocket_bg">#3ea8fc</color>
+    <color name="boost_shortcut_anim_bg">#99000000</color>
+
+    <!--settings-->
+    <color name="settings_common_item_title">#35b2ff</color>
+    <color name="settings_item_divider_line">#22000000</color>
+
+    <color name="boost_short_cut_boosted_bg">#99000000</color>
+    <color name="toolbar_item_bg_pressed">#22ffffff</color>
+
+    <!--Toogle-->
+    <color name="settings_toggle_bg_checked">#35b2ff</color>
+    <color name="settings_toggle_bg_unchecked">#DBDBDB</color>
+    <color name="settings_toggle_bg_unchecked_shadow">#226D6D6D</color>
+
+    <!--shuffle-->
+    <color name="shuffle_anim_circle_1">#7569f3</color>
+    <color name="shuffle_anim_circle_2">#fec752</color>
+    <color name="shuffle_anim_circle_3">#41e086</color>
+    <color name="shuffle_anim_circle_4">#e65759</color>
+    <color name="shuffle_anim_circle_5">#2ac8f8</color>
+    <color name="shuffle_anim_circle_6">#f765ca</color>
+<color name="divider_color">#ffffff</color>
+    <!--notify-->
+    <color name="notify_permission_many_txt_color">#5d9cec</color>
+    <color name="notify_permission_top_background_color">#4097fa</color>
+
+    <color name="common_notification_btn_color">#30c166</color>
+    <color name="common_layout_normal_color">#f7f7f7</color>
+    <color name="white_30p">#4cffffff</color>
+    <color name="white_54p">#8affffff</color>
+
+    <!--applock-->
+    <color name="applock_bg_gradient_startcolor">#52dae1</color>
+    <color name="applock_bg_gradient_endcolor">#4295f9</color>
+    <color name="applock_password_pattern_wrong">#a02626</color>
+    <color name="applock_input_password_bg">#1a2835</color>
+    <color name="applock_password_pattern_wrong_line">#d10202</color>
+    <color name="applock_password_pattern_right_line">#35B2FF</color>
+    <color name="applock_font_blue_color">#35B2FF</color>
+    <color name="applock_password_white_pattern_wrong_line">#db7373</color>
+    <color name="applock_no_app_protect_btn_color">#bfbfbf</color>
+    <color name="applock_setting_layout_bg">#f7f7f7</color>
+    <color name="applock_setting_divide_color">#1a000000</color>
+    <color name="applock_status_bar_color">#4097fa</color>
+
+    <color name="common_sixty_white">#66FFFFFF</color>
+    <color name="common_gray_pressed">#FFB8B8B8</color>
+    <color name="common_gray_normal">#FFFFFFFF</color>
+    <color name="common_seventy_eight_normal">#C7FFFFFF</color>
+    <color name="common_notify_remind_title_color">#ff4343</color>
+    <color name="common_btn_normal_color">#30c166</color>
+    <color name="common_btn_pressed_color">#269a52</color>
+    <color name="select_pressed_color">#40000000</color>
+    <color name="bg_splash_start_normal_color">#35d666</color>
+    <color name="bg_splash_start_press_color">#2aab52</color>
+    <color name="background">#FFE5EAEE</color>
+    <color name="common_gray_pressed_color">#FFB8B8B8</color>
+    <color name="common_gray_normal_color">#FFFAFAFA</color>
+    <color name="fragment_setting_color">#B2000000</color>
+    <color name="settings_text_summary_color">#FFaaaaaa</color>
+    <color name="divider">#FFE5E5E5</color>
+    <color name="common_primary_dark_color">#3379c8</color>
+    <color name="common_status_bar_color">#4097fa</color>
+    <color name="md_dialog_ok_button">#ff2296f3</color>
+    <color name="hot_word_text_bg">#ededed</color>
+    <color name="hot_word_text_title_color">#99000000</color>
+    <color name="card_vip_button_bg">#ffffbb33</color>
+    <color name="solo_search_background">#c8d9f3</color>
+    <color name="common_eightyseven_percent_black">#DE000000</color>
+    <color name="solo_search_common_subtitle">#b6b6b6</color>
+    <color name="plugin_calendar_color">#FFFFFFFF</color>
+    <color name="float_plugin_timer_normal">#4087f3</color>
+    <color name="text_color_0">#FFFFFFFF</color>
+    <color name="hot_word_text_bg_1">#e7f0fe</color>
+    <color name="hot_word_text_bg_2">#20b8cb</color>
+    <color name="hot_word_text_bg_3">#ff6565</color>
+    <color name="hot_word_text_bg_4">#4087f3</color>
+    <color name="hot_word_text_bg_5">#42bd41</color>
+    <color name="hot_word_text_bg_6">#ffac40</color>
+</resources>
